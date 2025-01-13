@@ -2,17 +2,17 @@
 
 ## Supported Versions
 
-**[#]These are ther version as of right now that are Up and working, as well as Secure
+[#]These are ther version as of right now that are Up and working, as well as Secure
 
-**[#]Green Circle means Secure and Up to date
+[#]Green Circle means Secure and Up to date
 
-**[#]Yellow Circle means Secure but not up to date, expect bugs
+[#]Yellow Circle means Secure but not up to date, expect bugs
 
-**[#]Yellow Square means the Verison is getting worked on
+[#]Yellow Square means the Verison is getting worked on
 
-**[#]Red Circle means that the version is in Beta/Alpha and not secure nor up to date, Could crash
+[#]Red Circle means that the version is in Beta/Alpha and not secure nor up to date, Could crash
 
-**[#]Red Square emans that the game is in progress, or not in progress
+[#]Red Square emans that the game is in progress, or not in progress
 
 
 | Version | Supported          |
