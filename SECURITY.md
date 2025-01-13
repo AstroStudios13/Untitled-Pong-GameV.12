@@ -12,7 +12,7 @@
 
 [#]Red Circle means that the version is in Beta/Alpha and not secure nor up to date, Could crash
 
-[#]Red Square emans that the game is in progress, or not in progress
+[#]Red Square emans that the game is not in progress
 
 
 | Version | Supported          | Realesed   |
