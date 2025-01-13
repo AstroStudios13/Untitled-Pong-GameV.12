@@ -15,12 +15,12 @@
 [#]Red Square emans that the game is in progress, or not in progress
 
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 10.0.0  | :yellow_circle:    |
-| 12.0.0  | :green_circle:     |
-| 13.0.0  | :yellow_square:    |
-| 14.0.0  | :red_square:       |
+| Version | Supported          | Realesed   |
+| ------- | ------------------ |------------|
+| 10.0.0  | :yellow_circle:    | Jan.9.2025 |
+| 12.0.0  | :green_circle:     | Jan.12.2025|
+| 13.0.0  | :yellow_square:    | Unknown    |
+| 14.0.0  | :red_square:       | Unknown    |
 
 ## Reporting a Vulnerability
 
