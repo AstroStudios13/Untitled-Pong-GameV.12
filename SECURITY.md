@@ -26,5 +26,5 @@
 
 ## Reporting a Bug
 
-Updates are about nearly Daily to Weekly, but also include all Beta and Main Updates of the game
+Updates are about nearly Daily to Weekly, but also include all Beta and Main Updates of the game. 
 You can report a bug to me by Emailing me at AstrOStudios13@Gmail.com
