@@ -24,6 +24,14 @@
 | 13.0.0  | :yellow_square:    | Unknown    |
 | 14.0.0  | :red_square:       | Unknown    |
 
+##Here is whats going to be in the Next update as of right now
+
+[#] 2 Player Mode
+
+[#] Update UI (Yes, again)
+
+[#] Bug fixes (And again... Yes)
+
 ## Reporting a Bug
 
 Updates are about nearly Daily to Weekly, but also include all Beta and Main Updates of the game. 
