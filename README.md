@@ -1,6 +1,9 @@
 #Untitled Pong Game Version.12
+
 --What was included with is Update--
+
 *Updated UI
+
 *Bug Fixes
 
 --This game is playable on any computer, and Mobile devices WITH A KEYBOARD AND MOUSE, but if you don't have a mouse and your on Mobile, welp sorry (Ill add mobile in one of the next updates--
