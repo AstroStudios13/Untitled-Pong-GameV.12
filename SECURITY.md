@@ -4,25 +4,23 @@
 
 [#]These are ther version as of right now that are Up and working, as well as Secure
 
-[#]Green Circle means Secure and Up to date
+[#]✅ Means Newest and  Curent version, while 🟩 Means Its still Playable, but not the newest
 
-[#]Yellow Circle means Secure but not up to date, expect bugs
+[#]💭 Menas the Version/Update is Gettings Worked on
 
-[#]Yellow Square means the Verison is getting worked on
+[#]⛔Means Unplayable, Or the file has been corrupted
 
-[#]Red Circle means that the version is in Beta/Alpha and not secure nor up to date, Could crash
+[#]⬛The Version is not yet made or thought of
 
-[#]Red Square means that the game is not in progress
-
-[#] Black Circle means the Version is Unplayable and can't be reached
+(Beta means the verison before the main version is released, so everything you see in beta may not be in the actuall main version
 
 
-| Version | Supported          | Realesed   | Beta/Alpha Version? |
-| ------- | ------------------ |------------|---------------------|
-| 10.0.0  | :black_circle:     | Jan.9.2025 |         ❌         |
-| 12.0.0  | :green_circle:     | Jan.12.2025|
-| 13.0.0  | :yellow_square:    | Unknown    |
-| 14.0.0  | :red_square:       | Unknown    |
+| Version | Supported          | Realesed   |
+| ------- | ------------------ |------------|
+| 10.0.0  |      ⛔            | Jan.9.2025 |
+| 12.0.0  |   ✅               | Jan.12.2025|
+| 13.0.0  |     💭             | Around Jan.19.2025   |
+| 14.0.0  |     ⬛             | Unknown    |
 
 ##Here is whats going to be in the Next update as of right now
 
