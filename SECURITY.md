@@ -17,16 +17,16 @@
 [#] Black Circle means the Version is Unplayable and can't be reached
 
 
-| Version | Supported          | Realesed   |
-| ------- | ------------------ |------------|
-| 10.0.0  | :black_circle:     | Jan.9.2025 |
+| Version | Supported          | Realesed   | Beta/Alpha Version? |
+| ------- | ------------------ |------------|---------------------|
+| 10.0.0  | :black_circle:     | Jan.9.2025 |         ❌         |
 | 12.0.0  | :green_circle:     | Jan.12.2025|
 | 13.0.0  | :yellow_square:    | Unknown    |
 | 14.0.0  | :red_square:       | Unknown    |
 
 ##Here is whats going to be in the Next update as of right now
 
-[#] 2 Player Mode
+[#] Settings Renovation
 
 [#] Update UI (Yes, again)
 
