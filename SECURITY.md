@@ -12,7 +12,7 @@
 
 [#]⬛The Version is not yet made or thought of
 
-(Beta means the verison before the main version is released. Also, beta is only available to testers that have asked to be a tester. If you would like to be a beta tester,
+(Beta means the verison before the main version is released. Also, beta is only available to testers that have asked to be a tester. If you would like to be a beta tester, Email me at AstrOStudios13@Gmail.com)
 
 
 | Version | Supported          | Realesed   |
