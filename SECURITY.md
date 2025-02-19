@@ -6,7 +6,7 @@
 
 [#]✅ Means Newest and  Curent version, while 🟩 Means Its still Playable, but not the newest
 
-[#]💭 Menas the Version/Update is Gettings Worked on
+[#]💭 Means the Version/Update is Gettings Worked on
 
 [#]⛔Means Unplayable, Or the file has been corrupted
 
@@ -19,19 +19,20 @@
 | Version | Supported          | Realesed   |
 | ------- | ------------------ |------------|
 | 10.0.0  |      ⛔            | Jan.9.2025 |
-| 12.0.0  |   ✅               | Jan.12.2025|
-| 13.0.0  |     💭             | Around Jan.19.2025   |
-| 14.0.0  |     ⬛             | Unknown    |
+| 12.0.0  |   🟩               | Jan.12.2025|
+| 13.0.0  |     ✅             | Feb.18.2025   | (Alot Later than a Thought)
+| 14.0.0  |     💭             | Around Mar.8.2025    |
+| 15.0.0 |   ⬛    | Unknown |
 
 ##Here is whats going to be in the Next update as of right now
 
-[#] Settings Renovation
+[#] Credits for Shop Items
 
-[#] Update UI (Yes, again)
+[#] Inventory and Shop
 
-[#] Bug fixes (And again... Yes)
+[#] Bug Fixes (YES, I KNOW! BUG FIXES... deal with it)
 
 ## Reporting a Bug
 
 Updates are about nearly Daily to Weekly, but also include all Beta and Main Updates of the game. 
-You can report a bug to me by Emailing me at AstrOStudios13@Gmail.com
+You can report a bug by saying so in the GutHub Page
